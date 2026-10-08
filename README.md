@@ -2,6 +2,7 @@
 
 Live demo companion repository for the talk **"State of Agentic Coding"** by Daniela Petruzalek.
 
+- **Presentation Deck**: [\[Devoxx Belgium 2026\] State of Agentic Coding.pdf](file:///Users/petruzalek/projects/devoxx2026/%5BDevoxx%20Belgium%202026%5D%20State%20of%20Agentic%20Coding.pdf)
 - **Speaker**: Daniela Petruzalek ([@danicat83](https://x.com/danicat83) · [danicat.dev](https://danicat.dev))
 
 ---
