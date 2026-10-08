@@ -1,0 +1,7 @@
+/goal create a plugin for antigravity named "agy-paint" to include image drawing and editing capabilities in the editor. This plugin should work as an inline canvas rendered with an iframe via /generative_ui . The server process should run as a sidecar and be always on. The sidecar should be configured with a config.json file in the sidecar installed folder so the user can change the server port whenever it is needed. The server process should monitor config.json and live reload if the file changes. because this is a plugin and will be distributed as open source no file paths nor credentials should be hardcoded, follow the best practices for plugins in /agy-customizations and /antigravity-guide.
+
+drawing capabilities: the drawing webserver program should have the typical tools for drawing - pencil, brush, bucket, cut, etc. it should also support layers.
+
+it should support file open and save keeping the layer metadata (PSD) and import / export from typical image files PNG, JPEG, etc. Since this is a sidecar, it should have native support for interacting with the session artifacts, with capability to load and save/export them.
+
+it should interact with the antigravity session using agentapi CLI. The drawing canvas should also have a button "Send to Chat" to send the image to the current antigravity session. The connected session id can be passed to the server via URL parameter. /grill-me

@@ -1,0 +1,1 @@
+build a 2d game using ::vibe-game-developer, ::ebitengineer and procedural assets. the game should be a tower defense game with the theme "JVM and garbage collection". ::swarm-coding agent budget 20 /grill-me

@@ -1,0 +1,1 @@
+perform a comprehensive code review of this codebase in preparation for open sourcing. be very critical / pedantic. use ::google-oss and ::uno-reverse. generate a list of improvements for me to review before applying. ::parallel(10) /grill-me
