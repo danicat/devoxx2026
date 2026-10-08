@@ -6,7 +6,7 @@ Step-by-step demo of dynamic swarm orchestration and context isolation ("coordin
 
 Fans out 10 reviewer agents to audit a codebase and initiates an interactive `/grill-me` alignment.
 
-1. Run [PROMPT.md](file:///Users/petruzalek/projects/devoxx2026/06-subagents/PROMPT.md) in agy CLI with @PROMPT.md
+1. Run [PROMPT.md](./PROMPT.md) in agy CLI with @PROMPT.md
 
 2. **What to Show**:
    - `::uno-reverse`: Adversarial reviewer persona.

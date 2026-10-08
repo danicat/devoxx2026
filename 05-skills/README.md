@@ -2,7 +2,7 @@
 
 Step-by-step demo of **KungFu** Just-In-Time (JIT) skill discovery and prompt injection.
 
-Supporting prompt: [PROMPT.md](file:///Users/petruzalek/projects/devoxx2026/05-skills/PROMPT.md)
+Supporting prompt: [PROMPT.md](./PROMPT.md)
 
 ---
 
@@ -23,10 +23,12 @@ Run these in the terminal to demonstrate skill discovery and catalog sync:
    ```bash
    kungfu catalog sync
    kungfu update
+   ```
 
 4. **JIT loading**:
+   ```bash
    kungfu load kungfu
    ```
 
 ### Part 2: In-Agent Prompting (JIT Injection)
-Switch to the Antigravity session and paste the demo prompt from [PROMPT.md](file:///Users/petruzalek/projects/devoxx2026/05-skills/PROMPT.md):
+Switch to the Antigravity session and paste the demo prompt from [PROMPT.md](./PROMPT.md):

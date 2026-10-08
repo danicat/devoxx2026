@@ -1,10 +1,10 @@
 # 02 - Rules: Keeping Guardrails Lean
 
-Walkthrough of a minimal, production-grade rules file: [GEMINI.md](file:///Users/petruzalek/projects/devoxx2026/02-rules/GEMINI.md).
+Walkthrough of a minimal, production-grade rules file: [GEMINI.md](./GEMINI.md).
 
 ## Walkthrough Steps
 
-1. **Open [GEMINI.md](file:///Users/petruzalek/projects/devoxx2026/02-rules/GEMINI.md)**:
+1. **Open [GEMINI.md](./GEMINI.md)**:
    - Notice it is **under 25 lines** instead of a 500-line monolithic rulebook.
 2. **Show the 3 Non-Negotiable Rules**:
    - **Rule 1 (Dynamic Skills)**: Always activate and keep the `kungfu` skill alive.
